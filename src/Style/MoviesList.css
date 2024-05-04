@@ -1,0 +1,33 @@
+.MovieList-container{
+   margin-top: 1rem;
+}
+
+table{
+    width: 100%;
+}
+
+table th{
+    background-color: #EBEBEB;
+}
+
+table, th,td{
+    border-collapse: collapse;
+    border: 2px solid #EBEBEB;
+}
+
+table th, td{
+    text-align: left;
+    padding: 0.5rem 1rem;
+}
+
+table tr:hover{
+    background: #EBEBEB;
+}
+
+td{
+    font-size: 14px;
+}
+
+h1{
+    text-align: center;
+}

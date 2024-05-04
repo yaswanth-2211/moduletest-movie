@@ -1,0 +1,28 @@
+.filter-container{
+    background-color: #EBEBEB;
+    padding: 16px 12px;
+    border-radius: 6px;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+.btns-container{
+    display: flex;
+    gap: 0.5 rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.btns-container button{
+    border: none;
+    padding: 0.5rem 0.8rem;
+    border-radius:5px;
+    background-color:  #9e9d9e;
+    font-weight: 600;
+}
+
+button:hover{
+    background:#686767;
+}
